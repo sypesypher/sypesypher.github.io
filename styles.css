@@ -3,10 +3,17 @@
 }
 
 .child-zero {
-    position: absolute;
+    position: relative;
     top: 0;
 }
 
 .child-one {
-    
+    position: relative;
+
+}
+
+ul {
+    list-style-type: square;
+    position: relative
+
 }
